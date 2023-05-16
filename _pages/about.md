@@ -19,4 +19,4 @@ My research interests are in federated learning, edge and cloud computing, and n
 * [May 2023] Our paper "Privacy Tradeoffs in Vertical Federated Learning" has been accepted to the [FLSys Workshop](https://flsys.github.io/) at MLSys 2023. Congratulations Linh!
 * [May 2023] Our project "Efficient, Private, and Explainable Federated Learning for Financial Crime Detection" has been selected for funding by [CRAFT](https://www.stevens.edu/craft).
 * [April 2023] Our paper [LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning](https://arxiv.org/abs/2305.02219) has been accepted to ICML 2023. Congratulations Tim!
-* [March 2023] Tim Castglia successful defended his thesis. Congratulations Dr. Castiglia!
+* [March 2023] Tim Castiglia successfully defended his thesis. Congratulations Dr. Castiglia!
