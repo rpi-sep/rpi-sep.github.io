@@ -1,11 +1,10 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
-    
-  - title: "Group"
-    url: /group/
+  - title: "Research"
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/    
    
+  - title: "Group"
+    url: /group/
