@@ -16,7 +16,9 @@ My research interests are in federated learning, edge and cloud computing, and n
 
 
 ### Recent News
+* [August 2023] Our paper [Flexible Vertical Federated Learning with Heterogeneous Parties](https://arxiv.org/abs/2208.12672) has been accepted to IEEE Transactions on Neural Networks and Learning Systems. Congratulations Tim! 
+* [July 2023] We are organizing the [Workshop on Federated Learning in the Age of Foundation Models](https://federated-learning.org/fl@fm-neurips-2023/) at [NeurIPS 2023](https://neurips.cc/Conferences/2023). Submissions are welcome!
 * [June 2023] Our paper "Privacy Tradeoffs in Vertical Federated Learning" received a best paper award at the [FLSys Workshop](https://flsys.github.io/) at MLSys 2023. Congratulations Linh!
 * [May 2023] Our project "Efficient, Private, and Explainable Federated Learning for Financial Crime Detection" has been selected for funding by [CRAFT](https://www.stevens.edu/craft).
 * [April 2023] Our paper [LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning](https://arxiv.org/abs/2305.02219) has been accepted to ICML 2023. Congratulations Tim!
-* [March 2023] Tim Castiglia successfully defended his thesis. Congratulations Dr. Castiglia!
+
