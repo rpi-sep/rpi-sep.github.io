@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* [CSCI 4510/6510 - Distributed Systems and Algorithms](/teaching/dsa-spring-2024): Spring 2024
 * [CSCI 2300 - Intro to Algorithms](/teaching/csci-2300-fall-2023): Fall 2023
-* CSCI 4510/6510 - Distributed Systems and Algorithms: Spring 2024
+
 
 
 ## Past Courses
