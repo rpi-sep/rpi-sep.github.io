@@ -20,7 +20,6 @@ communication, coordination, synchronization, and fault-tolerance.
 We will study key algorithms and theoretical results
 and explore how these foundations play out in modern systems and applications 
 like cloud computing, edge computing, and peer-to-peer systems.
-
 - [Course Syllabus](#)
 - [Gradescope](https://www.gradescope.com/) (for quiz grades)
 - [Submitty](https://submitty.cs.rpi.edu/) (for course materials, discussion forum, and projects)
@@ -38,7 +37,7 @@ See the Project 1 description for more information on how to configure your proj
 - Examples projects with build.sh and run.sh scripts: [Python](dsa/python.zip)   [Java](java.zip)
 
 **Project 1**
-- Project Specification
+- [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTsU7LS38_2nIjwVgbwtu8xRuYxAAAU0Dov9BuX0CcJqrFrIs06jmlD5X1o3l7Q7rkPXqjvdKksh018/pub)
 - Autograding Public Tests
 - [Java tutorial](https://www.baeldung.com/udp-in-java) for UDP echo client/server
 - [Python tutorial for UDP client/server](https://pythontic.com/modules/socket/udp-client-server-example) - This tutorial is not for an echo server, but the example code can be easily modified to work as an echo server.
