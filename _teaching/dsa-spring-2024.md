@@ -37,11 +37,11 @@ See the Project 1 description for more information on how to configure your proj
 - Example [knownhosts.json](dsa/knownhosts.json) file
 - Examples projects with build.sh and run.sh scripts: [Python](dsa/python.zip)   [Java](java.zip)
 
-### Project 1
+**Project 1**
 - Project Specification
 - Autograding Public Tests
- - Java tutorial for UDP echo client/server
- - Python tutorial for UDP client/server - This tutorial is not for an echo server, but the example code can be easily modified to work as an echo server.
+- [Java tutorial](https://www.baeldung.com/udp-in-java) for UDP echo client/server
+- [Python tutorial for UDP client/server](https://pythontic.com/modules/socket/udp-client-server-example) - This tutorial is not for an echo server, but the example code can be easily modified to work as an echo server.
 
 ### Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
