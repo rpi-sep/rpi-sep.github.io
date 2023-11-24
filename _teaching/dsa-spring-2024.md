@@ -1,7 +1,7 @@
 ---
 layout: widelayout
 page.sidebar: false
-title: "CSCI 2300: Intro to Algorithms"
+title: "CSCI 4510/6510: Distributed Systems and Algorithms"
 permalink: /teaching/dsa-spring-2024
 ---
 
