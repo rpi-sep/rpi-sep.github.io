@@ -8,10 +8,19 @@ permalink: /teaching/dsa-spring-2024
 
 ## General Information
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)
+**Instructor Office Hours:**  T 1pm - 3pm in Lally 301
+
+**TA:** Linh Tran (tranl3@rpi.edu)
 
 **Lectures:** MR 12pm - 1:50pm
 
-**Instructor Office Hours:**  TBD
+## Quiz Schedule
+Quizzes will be held during the scheduled lecture time.
+- Quiz 1: Thursday 1/24/24
+- Quiz 2: Thursday 2/15/24 
+- Quiz 3: Thurdsay 3/14/24
+- Quiz 4: Monday 4/1/24
+- Quiz 5: Thursday 4/18/24
 
 ## Course Description
 This course explores the principles of distributed systems, 
@@ -34,13 +43,12 @@ See the Project 1 description for more information on how to configure your proj
 - [Basic instructions](dsa/docker_info.html) for working Docker containers and networks.
 - Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with the name of the container image for this class.
 - Example [knownhosts.json](dsa/knownhosts.json) file
-- Examples projects with build.sh and run.sh scripts: [Python](dsa/python.zip)   [Java](java.zip)
+- Examples projects with build.sh and run.sh scripts: [Python](dsa/python.zip)  
 
 **Project 1**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTsU7LS38_2nIjwVgbwtu8xRuYxAAAU0Dov9BuX0CcJqrFrIs06jmlD5X1o3l7Q7rkPXqjvdKksh018/pub)
 - Autograding Public Tests
-- [Java tutorial](https://www.baeldung.com/udp-in-java) for UDP echo client/server
-- [Python tutorial for UDP client/server](https://pythontic.com/modules/socket/udp-client-server-example) - This tutorial is not for an echo server, but the example code can be easily modified to work as an echo server.
+- [Python tutorial for UDP client/server](https://pythontic.com/modules/socket/udp-client-server-example) 
 
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
