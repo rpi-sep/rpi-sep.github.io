@@ -40,7 +40,7 @@ Docker to test your code, but it is a good idea. Below are instructions for conf
 as well as instructions for replicating the Submitty test environment on your own machine. 
 See the Project 1 description for more information on how to configure your projects.
 
-- [Basic instructions](dsa/docker_info.html) for working Docker containers and networks.
+- [Basic instructions](https://docs.google.com/document/d/e/2PACX-1vTzW9hN_boFWx7kf3agpkSVFWdt8tTanaCLjKZlzh9uQgXi7Wok3DA3BeoAiUXO53zGb6wxsFwLgwiB/pub) for working Docker containers and networks.
 - Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with the name of the container image for this class.
 - Example [knownhosts.json](files/knownhosts.json) file
 - Examples projects with build.sh and run.sh scripts: [Python](/files/python.zip)  [Go](/files/go.zip)
