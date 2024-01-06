@@ -42,8 +42,8 @@ See the Project 1 description for more information on how to configure your proj
 
 - [Basic instructions](dsa/docker_info.html) for working Docker containers and networks.
 - Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with the name of the container image for this class.
-- Example [knownhosts.json](dsa/knownhosts.json) file
-- Examples projects with build.sh and run.sh scripts: [Python](dsa/python.zip)  
+- Example [knownhosts.json](files/knownhosts.json) file
+- Examples projects with build.sh and run.sh scripts: [Python](files/python.zip)  [Go](files/go.zip)
 
 **Project 1**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTsU7LS38_2nIjwVgbwtu8xRuYxAAAU0Dov9BuX0CcJqrFrIs06jmlD5X1o3l7Q7rkPXqjvdKksh018/pub)
