@@ -7,7 +7,7 @@ permalink: /teaching/dsa-spring-2024
 
 
 ## General Information
-**Instructor:** Stacy Patterson (sep@cs.rpi.edu)
+**Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
 **Instructor Office Hours:**  T 1pm - 3pm in Lally 301
 
 **TA:** Linh Tran (tranl3@rpi.edu)
