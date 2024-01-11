@@ -48,7 +48,8 @@ See the Project 1 description for more information on how to configure your proj
 **Project 1**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTsU7LS38_2nIjwVgbwtu8xRuYxAAAU0Dov9BuX0CcJqrFrIs06jmlD5X1o3l7Q7rkPXqjvdKksh018/pub)
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vTzZlf5YeyxO3XvXM181uN84dCOeztscZ6q9BJPglOimC_DMn8XZ8JNmP3y3yaXl-RSeH1JRt5LqkJ1/pub)
-- [Python tutorial for UDP client/server](https://pythontic.com/modules/socket/udp-client-server-example) 
+- [Example UDP client/server](https://people.cs.umass.edu/~arun/590CC/lectures/Sockets.pdf)
+
 
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
