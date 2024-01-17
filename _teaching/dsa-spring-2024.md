@@ -16,7 +16,7 @@ permalink: /teaching/dsa-spring-2024
 
 ## Quiz Schedule
 Quizzes will be held during the scheduled lecture time.
-- Quiz 1: Thursday 1/24/24
+- Quiz 1: Thursday 1/25/24
 - Quiz 2: Thursday 2/15/24 
 - Quiz 3: Thurdsay 3/14/24
 - Quiz 4: Monday 4/1/24
