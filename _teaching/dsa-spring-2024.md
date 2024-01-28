@@ -55,6 +55,8 @@ See the Project 1 description for more information on how to configure your proj
 Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
 - [Efficient solutions to the replicated log and dictionary problems](https://dl.acm.org/doi/10.1145/800222.806750), Gene T.J. Wuu and Arthur J. Bernstein, Proceedings of the third annual ACM symposium on Principles of distributed computing, 1984.
+- [A optimal algorithm for mutual exclusion in computer networks](http://dl.acm.org/citation.cfm?id=358537), Glenn Ricart and Ashok K. Agrawala, Communications of the ACM, 1981.
+
   
 ## Back Quizzes
 These quizzes are provided to give you some idea of the types of questions that may be asked. The specific topics and the order in which they are presented may vary somwhat from year to year.
