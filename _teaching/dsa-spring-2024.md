@@ -50,7 +50,9 @@ See the Project 1 description for more information on how to configure your proj
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vTzZlf5YeyxO3XvXM181uN84dCOeztscZ6q9BJPglOimC_DMn8XZ8JNmP3y3yaXl-RSeH1JRt5LqkJ1/pub)
 - [Example UDP client/server](https://people.cs.umass.edu/~arun/590CC/lectures/Sockets.pdf)
 
-
+**Project 2**
+- [Project Specifciation](#)
+  
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
