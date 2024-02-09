@@ -52,8 +52,7 @@ See the Project 1 description for more information on how to configure your proj
 
 **Project 2**
 - [Project Specifcation](https://docs.google.com/document/d/e/2PACX-1vTToRDbgXjxFk1RbGT6db109FeC7WUhDY6vStm4ybeAWGemZdnwABfb0ZeTeZRdJ6QWVW7Nev28pCaT/pub)
-- [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vT3FpQ47yneP9V7RVc-BGpHXna8zp_R1LHNMgJt7qTc2x2jYqshv9WwNfC-jkOdbOXIkp9zmElptMfr/pub)
-  
+
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
