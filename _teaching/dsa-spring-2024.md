@@ -52,6 +52,7 @@ See the Project 1 description for more information on how to configure your proj
 
 **Project 2**
 - [Project Specifcation](https://docs.google.com/document/d/e/2PACX-1vTToRDbgXjxFk1RbGT6db109FeC7WUhDY6vStm4ybeAWGemZdnwABfb0ZeTeZRdJ6QWVW7Nev28pCaT/pub)
+- [Autograding Public Tests](#)
 
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
