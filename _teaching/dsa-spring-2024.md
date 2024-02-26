@@ -65,6 +65,7 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/), K. Mani Chandy and Leslie Lamport, ACM Transactions on Computer Systems, 1985.
 - [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/), Philip A. Bernstein, Vassos Hadzilacos, Nathan Goodman, 1987. 2PC and 3PC are in Chapter 7.
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf), Leslie Lamport, ACM Transactions on Computer Systems, 1998.
+- [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/), Leslie Lamport, ACM SIGACT News, 2001.
   
 ## Back Quizzes
 These quizzes are provided to give you some idea of the types of questions that may be asked. The specific topics and the order in which they are presented may vary somwhat from year to year.
