@@ -55,6 +55,9 @@ See the Project 1 description for more information on how to configure your proj
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vT3FpQ47yneP9V7RVc-BGpHXna8zp_R1LHNMgJt7qTc2x2jYqshv9WwNfC-jkOdbOXIkp9zmElptMfr/pub)
 - [Manual Test Cases](https://docs.google.com/document/d/e/2PACX-1vQQasqStTnuow7pz8V7mASbQTiYvaojBrCnqb7om4pFkYOH2nVa67sWOxpsParq7ui7ksJ9umMydg8U/pub)
 
+**Project 3**
+- [Project Specification](https://docs.google.com/document/d/e/2PACX-1vRXQJEjxtYXY0kAySdQf9xa5oGwmSL05SVcUa0NxWLfhUSuagyXNja2NIacUPIUIDnbjpd7UNb5K8GS/pub)
+  
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
