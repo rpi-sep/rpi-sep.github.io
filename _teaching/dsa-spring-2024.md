@@ -70,10 +70,12 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/), Philip A. Bernstein, Vassos Hadzilacos, Nathan Goodman, 1987. 2PC and 3PC are in Chapter 7.
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf), Leslie Lamport, ACM Transactions on Computer Systems, 1998.
 - [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/), Leslie Lamport, ACM SIGACT News, 2001.
-- [Elections in a Distributed Computing System](https://ieeexplore.ieee.org/abstract/document/1675885), Héctor García-Molina,  IEEE Transactions on Computers, 1982.
+- [Elections in a Distributed Computing System](https://homepage.divms.uiowa.edu/~ghosh/Bully.pdf), Héctor García-Molina,  IEEE Transactions on Computers, 1982.
 - [Impossibility of Distributed Consensus with One Faulty
 Process ](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), Michael J. Fischer, Nancy A. Lynch, Michael, S. Patterson, Journal of the ACM, 1985.
-  
+- [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf), Leslia Lamport, Robert Shostak, and Marshall Pease, ACM Transactions on Programming Languages and Systems, 1982.
+- [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/), Elaine Shi, 2020.
+
 ## Back Quizzes
 These quizzes are provided to give you some idea of the types of questions that may be asked. The specific topics and the order in which they are presented may vary somwhat from year to year.
 - Quiz 1: [Questions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam1_solutions.pdf)
