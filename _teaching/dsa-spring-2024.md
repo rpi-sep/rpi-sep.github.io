@@ -55,9 +55,12 @@ See the Project 1 description for more information on how to configure your proj
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vT3FpQ47yneP9V7RVc-BGpHXna8zp_R1LHNMgJt7qTc2x2jYqshv9WwNfC-jkOdbOXIkp9zmElptMfr/pub)
 - [Manual Test Cases](https://docs.google.com/document/d/e/2PACX-1vQQasqStTnuow7pz8V7mASbQTiYvaojBrCnqb7om4pFkYOH2nVa67sWOxpsParq7ui7ksJ9umMydg8U/pub)
 
-**Project 3**
+**Project 3 (due April 10)**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vRXQJEjxtYXY0kAySdQf9xa5oGwmSL05SVcUa0NxWLfhUSuagyXNja2NIacUPIUIDnbjpd7UNb5K8GS/pub)
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vTLLydQYvOX4d3IayzIAHd_gAIqSXEPA-wJPeFXMQfmP3OOBgmEmDkBO13cw69XL-xG7_iaTpIr7c-I/pub)
+
+**Extra Credit Project (due April 18)**
+- [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTYGMB6QG9NcDQsCFba0pm_qx6H5ne3eq9uwhX7gJS8BENz_QzkpVrjb4meuLMk1HVBal_SupHMpJ1r/pub)
   
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
