@@ -90,3 +90,4 @@ These quizzes are provided to give you some idea of the types of questions that 
 - Quiz 3: [Questions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam3.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam3_solutions.pdf)
 - Quiz 4: [Questions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam4.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam4_solutions.pdf)
 - Quiz 5: [Questions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam5.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/s24/csci4510/course_material/quiz/f20_exam5_solutions.pdf)
+  
