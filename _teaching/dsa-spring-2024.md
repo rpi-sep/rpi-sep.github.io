@@ -58,6 +58,7 @@ See the Project 1 description for more information on how to configure your proj
 **Project 3 (due April 10)**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vRXQJEjxtYXY0kAySdQf9xa5oGwmSL05SVcUa0NxWLfhUSuagyXNja2NIacUPIUIDnbjpd7UNb5K8GS/pub)
 - [Autograding Public Tests](https://docs.google.com/document/d/e/2PACX-1vTLLydQYvOX4d3IayzIAHd_gAIqSXEPA-wJPeFXMQfmP3OOBgmEmDkBO13cw69XL-xG7_iaTpIr7c-I/pub)
+- [Manual Test Cases](https://docs.google.com/document/d/e/2PACX-1vQcMoitW1beSblAtjS4XDMVpJM8k4RjaYrBnft0DdSU9xTTMkKDHCZGxRrFyPxCWZW79q4haAhRLnSh/pub)
 
 **Extra Credit Project (due April 18)**
 - [Project Specification](https://docs.google.com/document/d/e/2PACX-1vTYGMB6QG9NcDQsCFba0pm_qx6H5ne3eq9uwhX7gJS8BENz_QzkpVrjb4meuLMk1HVBal_SupHMpJ1r/pub)
