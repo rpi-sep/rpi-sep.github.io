@@ -13,6 +13,7 @@ author_profile: true
 * Timothy Castiglia - PhD 2023
 * Lorson Blair - MS 2023 (RPI PhD)
 * Jeffrey Putlock - MS 2022 (Bloomberg)
+* Tobias Park - MS 2022 (Sandia National Laboratories)
 * Anirban Das - PhD 2021 (Capital One)
 * Andrew Nagawiecki - MS 2021 (EOTech), MS project report [Layered Paxos: A Hierarchical Approach to Consensus](https://nsl.cs.rpi.edu/nagawiecki_ms_2021.pdf)
 * Yuhao Yi - Postdoc 2019-2020 (Sichuan University, China)
