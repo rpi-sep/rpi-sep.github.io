@@ -10,8 +10,8 @@ permalink: /teaching/dsa-fall-2024
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
 **Instructor Office Hours:**  T 1pm - 3pm in Lally 301
 
-**TA:** Michael Zuo (zuom@rpi.edu) 
-**TA Office Hours:** TBD
+**TA:** Michael Zuo (zuom@rpi.edu)   
+**TA Office Hours:** TBD 
 
 **Lectures:** MR 12pm - 1:50pm
 
@@ -35,6 +35,6 @@ Quizzes will be held during the scheduled lecture time.
 - Quiz 5: Thursday 12/5/24
              
 ## Review Problems
-- Part 1: [Questions](#) [Solutions](#)
+- Part 1: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/ReviewQuestionsPart1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/ReviewSolutionsPart1.pdf)
 
 
