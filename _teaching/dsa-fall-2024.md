@@ -11,7 +11,7 @@ permalink: /teaching/dsa-fall-2024
 **Instructor Office Hours:**  T 1pm - 3pm in Lally 301
 
 **TA:** Michael Zuo (zuom@rpi.edu)   
-**TA Office Hours:** TBD 
+**TA Office Hours:** T 3pm-4pm, W 11am - 1pm, Location TBD
 
 **Lectures:** MR 12pm - 1:50pm
 
