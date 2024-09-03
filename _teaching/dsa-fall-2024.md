@@ -37,8 +37,8 @@ Quizzes will be held during the scheduled lecture time.
 ## Review Problems
 - Part 1: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/ReviewQuestionsPart1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/ReviewSolutionsPart1.pdf)
 
-## Projects
-The projects will be evaluated using Submitty's autograding feature for networked applications. 
+## Homework
+The coding homework will be evaluated using Submitty's autograding feature for networked applications. 
 Submitty uses Docker to deploy and test your application. It is not necessary for you to use 
 Docker to test your code, but it is a good idea. Below are instructions for configuring and using Docker, 
 as well as instructions for replicating the Submitty test environment on your own machine.  
@@ -46,6 +46,10 @@ as well as instructions for replicating the Submitty test environment on your ow
 - Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with  submittyrpi/csci4510:defaultspring24_java
 - Example [knownhosts.json](/files/f24/knownhosts.json) file
 - Examples project skeletons with build.sh for compilation and run.sh to run code: [Java](/files/java.zip) [Python](/files/python.zip)  [Go](/files/go.zip) [Rust](/files/rust.zip)
+
+**Homework 1 (due September 19, 2024)**
+- [Code Specification](https://docs.google.com/document/d/1D04U6FFLJGgf3xUeZZFk7_R2Sqaxnz4fPFgF3SQfD3I/pub)
+- [Problem Set](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/homework/hw1_problems.pdf)
   
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
