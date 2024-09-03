@@ -47,3 +47,7 @@ as well as instructions for replicating the Submitty test environment on your ow
 - Example [knownhosts.json](/files/f24/knownhosts.json) file
 - Examples project skeletons with build.sh for compilation and run.sh to run code: [Java](/files/java.zip) [Python](/files/python.zip)  [Go](/files/go.zip) [Rust](/files/rust.zip)
   
+## Papers and Readings
+Some papers are behind a pay wall and can only be accessed from the RPI network.
+- [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
+  
