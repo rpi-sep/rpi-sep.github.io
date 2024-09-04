@@ -35,7 +35,7 @@ Quizzes will be held during the scheduled lecture time.
 - Quiz 5: Thursday 12/5/24
              
 ## Review Problems
-- Part 1: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewQuestionsPart1.pdf](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewQuestionsPart1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewSolutionsPart1.pdf)
+- Part 1: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewQuestionsPart1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewSolutionsPart1.pdf)
 
 ## Homework
 The coding homework will be evaluated using Submitty's autograding feature for networked applications. 
@@ -50,6 +50,7 @@ as well as instructions for replicating the Submitty test environment on your ow
 **Homework 1 (due September 19, 2024)**
 - [Code Specification](https://docs.google.com/document/d/1D04U6FFLJGgf3xUeZZFk7_R2Sqaxnz4fPFgF3SQfD3I/pub)
 - [Problem Set](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/homework/hw1_problems.pdf)
+- [Description of Submitty Public Test Cases](https://docs.google.com/document/d/1WGtLD2P2xTws_bLa-w4zn_7oKq9EN1E_kv13CQr6Eos/pub)
   
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
