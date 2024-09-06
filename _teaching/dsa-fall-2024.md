@@ -43,7 +43,7 @@ Submitty uses Docker to deploy and test your application. It is not necessary fo
 Docker to test your code, but it is a good idea. Below are instructions for configuring and using Docker, 
 as well as instructions for replicating the Submitty test environment on your own machine.  
 - [Basic instructions](https://docs.google.com/document/d/e/2PACX-1vTzW9hN_boFWx7kf3agpkSVFWdt8tTanaCLjKZlzh9uQgXi7Wok3DA3BeoAiUXO53zGb6wxsFwLgwiB/pub) for working Docker containers and networks.
-- Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with  submittyrpi/csci4510:defaultspring24_java
+- Submitty provides a [tool](https://github.com/Submitty/StudentTools/tree/main/network_generator) to automatically create Docker containers and the Docker Network, and to deploy your code to these containers. The solution_directory should be your bin directory (after running build.sh), and replace submittyrpi/csci4510:default with  submittyrpi/csci4510:spring24_java
 - Example [knownhosts.json](/files/f24/knownhosts.json) file
 - Examples project skeletons with build.sh for compilation and run.sh to run code: [Java](/files/java.zip) [Python](/files/python.zip)  [Go](/files/go.zip) [Rust](/files/rust.zip)
 
