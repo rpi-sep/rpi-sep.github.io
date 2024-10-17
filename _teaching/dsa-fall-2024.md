@@ -67,3 +67,5 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [A sqrt(N) algorithm for mutual exclusion in decentralized systems](https://dl.acm.org/doi/10.1145/214438.214445), Mamoru Maekawa, ACM Transactions on Computer Systems, 1985. 
 - [The Information Structure of Distributed Mutual Exclusion Algorithms](https://dl.acm.org/doi/10.1145/24068.28052), Beverly Sanders, ACM Transactions on Computer Systems, 1987.
 - [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/), K. Mani Chandy and Leslie Lamport, ACM Transactions on Computer Systems, 1985.
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf), Leslie Lamport, ACM Transactions on Computer Systems, 1998.
+- [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/), Leslie Lamport, ACM SIGACT News, 2001.
