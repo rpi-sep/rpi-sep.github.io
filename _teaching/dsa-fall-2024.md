@@ -36,6 +36,7 @@ Quizzes will be held during the scheduled lecture time.
              
 ## Review Problems
 - Part 1: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewQuestionsPart1.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewSolutionsPart1.pdf)
+- Part 2: [Questions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewQuestionsPart2.pdf) [Solutions](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/review/ReviewSolutionsPart2.pdf)
 
 ## Homework
 The coding homework will be evaluated using Submitty's autograding feature for networked applications. 
