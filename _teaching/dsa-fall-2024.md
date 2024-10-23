@@ -59,6 +59,9 @@ as well as instructions for replicating the Submitty test environment on your ow
 - [Problem Set](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/homework/hw2_problems.pdf)
 - [Description of Submitty Public Test Cases](https://docs.google.com/document/d/e/2PACX-1vSVH8Jt-cFGG9t-h_qFIHqYTArTPx6_e9YBi-nCLfrXyCcA8bYdViqLZXXvJI8ZikBrw2Pg93YLLHTe/pub)
 
+**Homework 3 (due November 8, 2024)**
+- [Code Specification](https://docs.google.com/document/d/e/2PACX-1vSbnwVbJQZTfSYCQdfdEDY2a_0zO6OoNW3aC92Fwkmf-YLd56tMeYO2S4LI4yUIARvb4PQsKZ_fsyIL/pub)
+
 ## Papers and Readings
 Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Time, clocks, and the ordering of events in a distributed system](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/), Leslie Lamport, Communications of the ACM, 1978.
