@@ -73,3 +73,4 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/), K. Mani Chandy and Leslie Lamport, ACM Transactions on Computer Systems, 1985.
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf), Leslie Lamport, ACM Transactions on Computer Systems, 1998.
 - [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/), Leslie Lamport, ACM SIGACT News, 2001.
+- [Elections in a Distributed Computing System](https://homepage.divms.uiowa.edu/~ghosh/Bully.pdf), Héctor García-Molina,  IEEE Transactions on Computers, 1982.
