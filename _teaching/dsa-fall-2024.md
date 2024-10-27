@@ -61,6 +61,7 @@ as well as instructions for replicating the Submitty test environment on your ow
 
 **Homework 3 (due November 15, 2024)**
 - [Code Specification](https://docs.google.com/document/d/e/2PACX-1vSbnwVbJQZTfSYCQdfdEDY2a_0zO6OoNW3aC92Fwkmf-YLd56tMeYO2S4LI4yUIARvb4PQsKZ_fsyIL/pub)
+- [Problem Set](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/homework/hw3_problems.pdf)
 - [Description of Submitty Public Test Cases](https://docs.google.com/document/d/e/2PACX-1vQFYIWF_FvTpd0GzL44FPxlPnM_VAmWts9TfbGL8buZhtd0favS1c9IKCem8Vj-3Mh9kNIE9ojAKCzk/pub)
 
 ## Papers and Readings
