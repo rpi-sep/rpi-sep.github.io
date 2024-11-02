@@ -58,6 +58,7 @@ as well as instructions for replicating the Submitty test environment on your ow
 - [Code Specification](https://docs.google.com/document/d/1_3CD5QXuBrd5Kg8SH4ft892vt1Kk0I_GAJLWVe4uA8A/pub)
 - [Problem Set](https://submitty.cs.rpi.edu/courses/f24/csci4510/course_material/homework/hw2_problems.pdf)
 - [Description of Submitty Public Test Cases](https://docs.google.com/document/d/e/2PACX-1vSVH8Jt-cFGG9t-h_qFIHqYTArTPx6_e9YBi-nCLfrXyCcA8bYdViqLZXXvJI8ZikBrw2Pg93YLLHTe/pub)
+- [Description of Submitty Hidden Test Cases](https://docs.google.com/document/d/e/2PACX-1vTA2TbBp319Ha4ZR6ondTffJdFqzuOxpFLlnZF8EmcfnGxgF2x8psDuws1dJ4K-qp2ws3iJzoUpwFoc/pub)
 
 **Homework 3 (due November 15, 2024)**
 - [Code Specification](https://docs.google.com/document/d/e/2PACX-1vSbnwVbJQZTfSYCQdfdEDY2a_0zO6OoNW3aC92Fwkmf-YLd56tMeYO2S4LI4yUIARvb4PQsKZ_fsyIL/pub)
