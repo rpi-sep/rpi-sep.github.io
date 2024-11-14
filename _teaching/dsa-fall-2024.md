@@ -79,4 +79,5 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [Elections in a Distributed Computing System](https://homepage.divms.uiowa.edu/~ghosh/Bully.pdf), Héctor García-Molina,  IEEE Transactions on Computers, 1982.
 - [Impossibility of Distributed Consensus with One Faulty
 Process ](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), Michael J. Fischer, Nancy A. Lynch, Michael, S. Patterson, Journal of the ACM, 1985.
+- [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf), Leslie Lamport, Robert Shostak, and Marsall Pease,  ACM Transactions on Programming Languages and Systems, 1982.
 
