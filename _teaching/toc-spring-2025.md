@@ -1,7 +1,7 @@
 ---
 layout: widelayout
 page.sidebar: false
-title: "CSCI 4050/6972: Theore of Computation"
+title: "CSCI 4050/6972: Theory of Computation"
 permalink: /teaching/toc-spring-2025
 ---
 
