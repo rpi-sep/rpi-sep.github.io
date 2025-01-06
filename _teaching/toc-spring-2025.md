@@ -22,7 +22,7 @@ and Cook’s theorem. We will also discuss some unconventional computing models,
 such as optical computing and DNA computing.
 
 - [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vTBI0svutXVLQRYkZ5S2XtC9kJFO-Kh29jkuvCv4o2nSHet0PyBkiUfbusaxvzZs5bndH5A0xmPRH3B/pub)
-- [Schedule (draft, may change)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDTfj59y-f4exYvGLXx3v0RY0AEigA-W0_olumTJjJGR_YMJBNlHSPfPMkXu6HFRm6w26yCe9fIK1D/pubhtml)
+- [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDTfj59y-f4exYvGLXx3v0RY0AEigA-W0_olumTJjJGR_YMJBNlHSPfPMkXu6HFRm6w26yCe9fIK1D/pubhtml)
 - [Gradescope](https://www.gradescope.com/) (for homework, quizzes, and exams)
 - [Submitty](https://submitty.cs.rpi.edu/) (for course materials and discussion forum)
 
