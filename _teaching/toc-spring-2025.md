@@ -10,7 +10,7 @@ permalink: /teaching/toc-spring-2025
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
 **Instructor Office Hours:**  M 1pm - 3pm in Lally 301
 
-**Lectures:** TF 12pm - 1:50pm in DARRIN 239
+**Lectures:** TF 12pm - 1:50pm in ~~DARRIN 239~~ SAGE 3713
 
 ## Course Description
 This course covers the formal foundations of computability and complexity. 
