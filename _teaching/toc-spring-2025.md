@@ -25,4 +25,5 @@ such as optical computing and DNA computing.
 - [Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDTfj59y-f4exYvGLXx3v0RY0AEigA-W0_olumTJjJGR_YMJBNlHSPfPMkXu6HFRm6w26yCe9fIK1D/pubhtml)
 - [Gradescope](https://www.gradescope.com/) (for homework, quizzes, and exams)
 - [Submitty](https://submitty.cs.rpi.edu/) (for course materials and discussion forum)
+- [List of Exam Practice Problems](https://docs.google.com/document/d/e/2PACX-1vTaxKRWhTAD3JlF3S9nEdYmenXLQOS4XrBKMo8IHv2XoxwfeRK0uodvLydEdSTxFWKQlg3321dyK9cj/pub)
 
