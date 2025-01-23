@@ -11,7 +11,7 @@ author_profile: true
 * Ha Linh Tran - PhD Student (co-advised with Prof. Ana Milanova)
 
 ### Alumni
-* Timothy Castiglia - PhD 2023
+* Timothy Castiglia - PhD 2023 (Ab Initio)
 * Lorson Blair - MS 2023 (RPI PhD)
 * Jeffrey Putlock - MS 2022 (Bloomberg)
 * Tobias Park - MS 2022 (Sandia National Laboratories)
