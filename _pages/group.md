@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ### Current Students
+* Michael Zuo - PhD Student
 * Ha Linh Tran - PhD Student (co-advised with Prof. Ana Milanova)
 
 ### Alumni
