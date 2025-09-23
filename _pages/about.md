@@ -11,7 +11,7 @@ Stacy Patterson is an Associate Professor and the Associate Head and Graduate Pr
 Current projects include: 
 * Privacy-preserving federated learning for financial fraud prevention
 * Private synthetic data generation for financial applications
-* Quantum machine learning for tabular data
+* Quantum machine learning
 * Performance optimization for Gen AI, with applications in information retrieval and code generation
 * Formal verification for safety-critical systems, such as future aviation systems
 
