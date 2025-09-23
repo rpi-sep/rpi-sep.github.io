@@ -6,12 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Stacy Patterson is an Associate Professor and the Associate Head and Graduate Program Director in the [Department of Computer Science](https://science.rpi.edu/computer-science) at [Rensselaer Polytechnic Institute](https://rpi.edu/). Her research focuses on distributed computing systems, machine learning, and data privacy, where she applies mathematical theory and formal verification to derive provable guarantees about practical applications spanning finance, aviation, cloud computing, and edge computing. 
 
-I am an Associate Professor, and the Associate Head and Graduate Program Director, in the [Department of Computer Science](https://science.rpi.edu/computer-science) at 
-[Rensselaer Polytechnic Institute](https://rpi.edu/).
+Current projects include: 
+* Privacy-preserving federated learning for financial fraud prevention
+* Private synthetic data generation for financial applications
+* Quantum machine learning for tabular data
+* Performance optimization for Gen AI, with applications in information retrieval and code generation
+* Formal verification for safety-critical systems, such as future aviation systems
 
-I received my PhD in computer science from the University of California, Santa Barbara in 2009, where I was a member of the Distributed Systems Lab. My PhD advisor was Professor Amr El Abbadi. From 2009 and 2011, I was a postdoc with Professor Bassam Bamieh at the Center for Control, Dynamical Systems and Computation at UCSB, and from 2011 to 2013, I was a postdoc with Professor Idit Keidar in the Department of Electrical Engineering at the Technion.
-My research interests are in federated learning, edge and cloud computing, and networked control systems.
+Her research has been supported by grants from NSF, the RPI-IBM AI Research Collaboration, and the [NSF IUCRC Center for Research toward Advancing Financial Technologies (CRAFT)](https://www.stevens.edu/craft). She has collaborated with industry partners including PSEG, IBM, and Swift. 
+
+Dr. Patterson earned her M.S. and Ph.D. degrees in Computer Science from the University of California, Santa Barbara. She subsequently held postdoctoral appointments with the Center for Control, Dynamical Systems, and Computation at UC Santa Barbara, and with the Department of Electrical Engineering at the Technion—Israel Institute of Technology. She is a recipient of a Clare Boothe Luce Assistant Professorship,  the [IEEE Control Systems Society George S. Axelby Outstanding Paper Award](https://www.ieeecss.org/awards/george-s-axelby-outstanding-paper-award), and the NSF CAREER Award.
 
 
 ### Recent News
