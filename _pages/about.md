@@ -21,9 +21,10 @@ Dr. Patterson earned her M.S. and Ph.D. degrees in Computer Science from the Uni
 
 
 ### Recent News
+* [October 2025] Our paper [Optimal Assignment and Motion Control in Two-Class Continuum Swarms](https://arxiv.org/abs/2407.18159) will appear in IEEE Transactions on Control of Network Systems.
+* [January 2025] Our paper [Formal verification of timely knowledge propagation in airborne networks](https://www.sciencedirect.com/science/article/abs/pii/S0167642324001072) is published in Science of Computer Programming.
 * [January 2025] Our paper [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) has been accepted to ICLR. Congratulations Linh!
-* [January 2025] The CS department is hiring for [Assistant Professor positions](https://compsci.rpi.edu/announcements/were-hiring-assistant-professor-positions).
-* [December 2024] Our workshop: [Federated Foundation Models (FL@FM-NeurIPS'24)](https://federated-learning.org/fl@fm-neurips-2024/) was held at NeuRIPS.
+
 
 
 
