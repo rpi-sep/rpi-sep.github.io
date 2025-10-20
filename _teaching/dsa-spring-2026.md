@@ -2,7 +2,7 @@
 layout: widelayout
 page.sidebar: false
 title: "CSCI 4510/6510: Distributed Systems and Algorithms"
-permalink: /teaching/dsa-spring-2024
+permalink: /teaching/dsa-spring-2026
 ---
 
 
