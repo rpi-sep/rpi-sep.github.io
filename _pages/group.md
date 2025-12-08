@@ -7,10 +7,13 @@ author_profile: true
 {% include base_path %}
 
 ### Current Students
+* [Linh Tran](https://www.linkedin.com/in/linh-tran-894941266/) - PhD Student (co-advised with Prof. Ana Milanova)
+* [Mingzhi Zhu](https://www.linkedin.com/in/mingzhi-zhu-517830251/) - PhD Student
 * Michael Zuo - PhD Student
-* Ha Linh Tran - PhD Student (co-advised with Prof. Ana Milanova)
+* [Smayan Nandakumar](https://www.linkedin.com/in/smayan-nandakumar-571a11248/) - MS Student
 
-### Alumni
+
+### Alumni (first position after graduation)
 * Timothy Castiglia - PhD 2023 (Ab Initio)
 * Lorson Blair - MS 2023 (RPI PhD)
 * Jeffrey Putlock - MS 2022 (Bloomberg)
