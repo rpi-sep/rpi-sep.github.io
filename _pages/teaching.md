@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [Distributed Systems and Algorithms](/teaching/dsa-spring-2026)
-* [Distributed Quantum Computing](/teaching/dqc-spring-2026)
+* [Distributed Systems and Algorithms](/teaching/dsa-spring-2026) - Spring 2026
+* [Distributed Quantum Computing](/teaching/dqc-spring-2026) - Spring 2026
 
 
 
