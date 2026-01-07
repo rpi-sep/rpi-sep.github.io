@@ -10,7 +10,7 @@ permalink: /teaching/dsa-spring-2026
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
 **Instructor Office Hours:**  TBD
 
-**TA:** TBD
+**TA:** Anweshit Panda (pandaa2@rpi.edu)
 
 **Lectures:** MR 12pm - 1:50pm
 
