@@ -8,7 +8,7 @@ permalink: /teaching/dsa-spring-2026
 
 ## General Information
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
-**Instructor Office Hours:**  TBD
+**Instructor Office Hours:**  T 11:30am - 1:30pm in Lally 301
 
 **TA:** Anweshit Panda (pandaa2@rpi.edu)
 
@@ -20,7 +20,7 @@ emphasizing fundamental issues underlying the design of such systems:
 communication, coordination, synchronization, and fault-tolerance. 
 We will study key algorithms and theoretical results
 and explore how these foundations play out in modern systems and applications.
-- [Course Syllabus](https://submitty.cs.rpi.edu/courses/s26/csci4510/course_material/dsa_s26_syllabus.pdf))
+- [Course Syllabus](https://submitty.cs.rpi.edu/courses/s26/csci4510/course_material/dsa_s26_syllabus.pdf)
 - [Gradescope](https://www.gradescope.com/) (for quiz grades)
 - [Submitty](https://submitty.cs.rpi.edu/) (for course materials, discussion forum, and homework)
 
