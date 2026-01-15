@@ -11,6 +11,7 @@ permalink: /teaching/dsa-spring-2026
 **Instructor Office Hours:**  T 11:30am - 1:30pm in Lally 301
 
 **TA:** Anweshit Panda (pandaa2@rpi.edu)
+**TA Office Hours:** W 3:00pm - 6:00pm in Amos Eaton 127 
 
 **Lectures:** MR 12pm - 1:50pm
 
