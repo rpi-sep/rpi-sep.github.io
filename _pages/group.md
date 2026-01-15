@@ -10,7 +10,9 @@ author_profile: true
 * [Linh Tran](https://www.linkedin.com/in/linh-tran-894941266/) - PhD Student (co-advised with Prof. Ana Milanova)
 * [Mingzhi Zhu](https://www.linkedin.com/in/mingzhi-zhu-517830251/) - PhD Student
 * Michael Zuo - PhD Student
-* [Smayan Nandakumar](https://www.linkedin.com/in/smayan-nandakumar-571a11248/) - MS Student
+* Kana Rudnick - PhD Student
+* [Smayan Nandakumar](https://www.linkedin.com/in/smayan-nandakumar-571a11248/) - Accelerated Masters
+* [Tomer Avgil](https://www.linkedin.com/in/tomer-avgil-540b531b2/) - Accelerated Masters
 
 
 ### Alumni (first position after graduation)
