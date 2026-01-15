@@ -21,6 +21,7 @@ Dr. Patterson earned her M.S. and Ph.D. degrees in Computer Science from the Uni
 
 
 ### Recent News
+* [December 2025] Our paper ''Multi-task Code LLMs: Data Mix or Model Merge?'' has been accepted to the The Third International Workshop on Large Language Models for Code. Congratulations Mingzhi!
 * [October 2025] Our paper [Optimal Assignment and Motion Control in Two-Class Continuum Swarms](https://arxiv.org/abs/2407.18159) will appear in IEEE Transactions on Control of Network Systems.
 * [January 2025] Our paper [Formal verification of timely knowledge propagation in airborne networks](https://www.sciencedirect.com/science/article/abs/pii/S0167642324001072) is published in Science of Computer Programming.
 * [January 2025] Our paper [Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](https://arxiv.org/abs/2501.13904) has been accepted to ICLR. Congratulations Linh!
