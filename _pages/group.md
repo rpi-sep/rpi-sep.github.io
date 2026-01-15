@@ -11,8 +11,8 @@ author_profile: true
 * [Mingzhi Zhu](https://www.linkedin.com/in/mingzhi-zhu-517830251/) - PhD Student
 * Michael Zuo - PhD Student
 * Kana Rudnick - PhD Student
-* [Smayan Nandakumar](https://www.linkedin.com/in/smayan-nandakumar-571a11248/) - Accelerated Masters
-* [Tomer Avgil](https://www.linkedin.com/in/tomer-avgil-540b531b2/) - Accelerated Masters
+* [Smayan Nandakumar](https://www.linkedin.com/in/smayan-nandakumar-571a11248/) -  MS Student
+* [Tomer Avgil](https://www.linkedin.com/in/tomer-avgil-540b531b2/) - MS Student
 
 
 ### Alumni (first position after graduation)
