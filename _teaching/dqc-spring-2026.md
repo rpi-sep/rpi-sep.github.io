@@ -8,7 +8,7 @@ permalink: /teaching/dqc-spring-2026
 
 ## General Information
 **Instructor:** Stacy Patterson (sep@cs.rpi.edu)  
-**Instructor Office Hours:**  TBD
+**Instructor Office Hours:**  11:30am - 1:30pm in Lally 301
 
 **Lectures:** MR 4pm - 5:50pm
 
