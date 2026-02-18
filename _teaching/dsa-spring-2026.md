@@ -41,3 +41,4 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 - [A sqrt(N) algorithm for mutual exclusion in decentralized systems](https://dl.acm.org/doi/10.1145/214438.214445), Mamoru Maekawa, ACM Transactions on Computer Systems, 1985. 
 - [The Information Structure of Distributed Mutual Exclusion Algorithms](https://dl.acm.org/doi/10.1145/24068.28052), Beverly Sanders, ACM Transactions on Computer Systems, 1987.
 - [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/), K. Mani Chandy and Leslie Lamport, ACM Transactions on Computer Systems, 1985.
+- [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book/), Philip A. Bernstein, Vassos Hadzilacos, Nathan Goodman, 1987. 2PC and 3PC are in Chapter 7.
