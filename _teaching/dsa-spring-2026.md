@@ -49,5 +49,7 @@ Some papers are behind a pay wall and can only be accessed from the RPI network.
 Process ](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), Michael J. Fischer, Nancy A. Lynch, Michael, S. Patterson, Journal of the ACM, 1985.
 - [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf), Leslia Lamport, Robert Shostak, and Marshall Pease, ACM Transactions on Programming Languages and Systems, 1982.
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/), Elaine Shi, 2020.
-  
+- [Dynamo: amazon's highly available key-value store](https://dl.acm.org/doi/abs/10.1145/1323293.1294281), Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati,
+Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall
+and Werner Vogels, ACM SIGOPS Operating Systems Review, 2007.
 
