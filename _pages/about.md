@@ -20,8 +20,8 @@ Dr. Patterson earned her M.S. and Ph.D. degrees in Computer Science from the Uni
 
 
 ### Recent News
-* [June 2026] Prof. Oshani Seneviratne and I were award a grant from [CRAFT](https://www.stevens.edu/craft) on Advanced Synthetic Data Generation for Multi-Table and Multi-Modal Data.
-* [June 2026] Prof. Oshani Seneviratne and I were award a grant from [CRAFT](https://www.stevens.edu/craft) on Quantum Resilience for Proof-of-Work Cryptocurrencies.
+* [June 2026] Prof. Oshani Seneviratne and I were awarded a grant from [CRAFT](https://www.stevens.edu/craft) on Advanced Synthetic Data Generation for Multi-Table and Multi-Modal Data.
+* [June 2026] Prof. Oshani Seneviratne and I were awarded a grant from [CRAFT](https://www.stevens.edu/craft) on Quantum Resilience for Proof-of-Work Cryptocurrencies.
 * [May 2026] Linh Tran completed her PhD - congratulations, Linh!
 * [May 2026] The book [Federated Learning: Foundations and Applications](https://shop.elsevier.com/books/federated-learning/buyya/978-0-443-44433-3) (editors: Buyya, Mukherjee, and Das) has now been published. My coauthors and I contributed a chapter titled “Vertical Federated Learning with Feature and Sample Privacy”.
 * [April 2026] A student project from my new [Distributed Quantum Computing](/teaching/dqc-spring-2026) course was accepted as a poster at [the Theory of Quantum Computation, Communication and Cryptography Conference](https://tqc-conference.org/2026/). Congratulations Batuhan and Mehtap!
