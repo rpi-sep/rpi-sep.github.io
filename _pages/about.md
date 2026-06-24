@@ -20,6 +20,7 @@ Dr. Patterson earned her M.S. and Ph.D. degrees in Computer Science from the Uni
 
 
 ### Recent News
+* [June 2026] Our paper "Predictive Sectorization and Bayesian Optimized Consensus for Admission Control in Autonomous Airspace Operations" was accepted to IEEE SMC. Congratulations Aditya Dhodapkar and Avery Smidt! Thanks for including me as a collaborator!
 * [June 2026] Prof. Oshani Seneviratne and I were awarded a grant from [CRAFT](https://www.stevens.edu/craft) on Advanced Synthetic Data Generation for Multi-Table and Multi-Modal Data.
 * [June 2026] Prof. Oshani Seneviratne and I were awarded a grant from [CRAFT](https://www.stevens.edu/craft) on Quantum Resilience for Proof-of-Work Cryptocurrencies.
 * [May 2026] Linh Tran completed her PhD - congratulations, Linh!
