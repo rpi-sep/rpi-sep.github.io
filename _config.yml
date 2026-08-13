@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stacy Patterson"
-  avatar           : "https://faculty.rpi.edu/sites/default/files/2021-12/Patterson_crop.jpg"
+  avatar           : "/images/StacyPatterson_crop.jpeg"
   bio              : "Associate Professor, Computer Science"
   location         : 
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rpi-nsl"
+  github           : "rpi-sep"
   google_plus      :
   keybase          :
   instagram        :
